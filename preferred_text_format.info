@@ -1,0 +1,6 @@
+name = Preferred Text Format
+description = Allows setting a preferred text format per text field.
+backdrop = 1.x
+type = module
+tags[] = Fields
+
