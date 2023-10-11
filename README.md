@@ -35,11 +35,12 @@ https://github.com/backdrop-contrib/preferred_text_format/issues.
 Current Maintainers
 -------------------
 
-- Peter Anderson (https://github.com/BWPanda).
+- Seeking maintainer(s)
 
 Credits
 -------
 
+- Developed for Backdrop CMS by [Peter Anderson](https://github.com/BWPanda).
 - Inspired by the 'Text Format Access' Drupal module by Dmitry Zhgenti
   (https://www.drupal.org/u/zhgenti).
 
